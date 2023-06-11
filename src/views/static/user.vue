@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <User @customEvent="customEvent" @customEvent1="customEvent1" :salesclerks="salesclerks">
   <template #[header]>
     头部信息
@@ -48,4 +48,4 @@ export default defineComponent({
 });
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped></style> -->

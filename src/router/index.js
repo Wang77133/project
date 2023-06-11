@@ -47,6 +47,11 @@ const routes = [
                 name: 'member',
                 component: () => import('../views/static/member.vue')
             },
+            {
+                path: '/login',
+                name: 'login',
+                component: () => import('../views/static/login.vue')
+            },
         ]
     },
     {

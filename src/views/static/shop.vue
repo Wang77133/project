@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="shops">连锁店CURD</div>
     <ul>
         <li v-for="(item, index) in shops" :key="item.id">{{ index }}:店名:{{ item.name }},面积{{ item.area }}<button
@@ -89,4 +89,4 @@ export default defineComponent({
 });
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped></style> -->
